@@ -1,0 +1,13 @@
+
+public class Printer {
+	
+	private PrinterImpl impl;
+	
+	public Printer(PrinterImpl impl) {
+		this.impl = impl;
+	}
+	
+	public void print() {
+		impl.spreadInk();
+	}
+}

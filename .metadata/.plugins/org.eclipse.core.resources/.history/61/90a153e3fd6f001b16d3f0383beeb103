@@ -1,0 +1,11 @@
+
+public class NewPrinter extends Printer{
+	
+	public NewPrinter(PrinterImpl impl) {
+		super(impl);
+	}
+	
+	public void displayMulti() {
+		
+	}
+}

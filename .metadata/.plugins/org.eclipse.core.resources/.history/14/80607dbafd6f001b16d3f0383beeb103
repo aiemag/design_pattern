@@ -1,0 +1,7 @@
+
+public class NewPrinter extends Printer{
+	
+	public NewPrinter(PrinterImpl impl) {
+		
+	}
+}

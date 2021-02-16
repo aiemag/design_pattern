@@ -1,0 +1,10 @@
+
+public class StringPrinterImpl extends PrinterImpl{
+	private String string;
+	
+	public StringPrinterImpl(String string) {
+		this.string = string;
+	}
+	
+	
+}

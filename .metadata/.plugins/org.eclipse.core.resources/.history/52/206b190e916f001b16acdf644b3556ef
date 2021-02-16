@@ -1,0 +1,4 @@
+
+public class Adapter extends PowerConnector implements PowerConnector{
+	
+}
