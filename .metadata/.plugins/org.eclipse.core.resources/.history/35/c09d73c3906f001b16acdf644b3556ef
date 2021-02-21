@@ -1,8 +1,0 @@
-
-public class ElectricOutlet {
-	private String voltType;
-	
-	public ElectricOutlet(String voltType) {
-		this.
-	}
-}

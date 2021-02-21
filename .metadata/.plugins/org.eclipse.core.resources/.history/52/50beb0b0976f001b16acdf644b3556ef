@@ -1,7 +1,0 @@
-
-public class Adapter implements PowerConnector{
-		
-	public void connectTo220VType() {
-		connectTo110VType();
-	}
-}

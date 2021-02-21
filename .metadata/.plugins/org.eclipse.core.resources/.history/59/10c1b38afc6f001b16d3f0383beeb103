@@ -1,6 +1,0 @@
-
-public class StringPrinterImpl extends PrinterImpl{
-	private String string;
-	
-	
-}

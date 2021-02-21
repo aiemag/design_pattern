@@ -1,7 +1,0 @@
-
-public class Adapter extends PowerConnector implements PowerConnector{
-	
-	public Adapter(String voltType) {
-		super(voltType);
-	}
-}
